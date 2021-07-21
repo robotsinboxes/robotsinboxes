@@ -1,9 +1,9 @@
-![github-scrap-banner](https://user-images.githubusercontent.com/69644797/126401498-46ef29ef-293a-4d57-97ad-2922795d50cf.jpg)
+![github-canvas-banner](https://user-images.githubusercontent.com/69644797/126412097-665dcb53-edbe-4444-a9fc-b493771f508b.jpg)
 
 
-# Hi! My name is Lisa Goodell...
+## Hi! My name is Lisa Goodell...
 
-## I recently graduated from UT's full stack web development course and am working hard to build up my portfolio.
+### I recently graduated from UT's full stack web development course and am working hard to build up my portfolio.
 
 I’m currently completing my portfolio website as well as seeing four other fun projects to completion. My skills include working with HTML/CSS, JavaScript, Node.js and React, and I have some experience with databases and APIs as well. 
 
