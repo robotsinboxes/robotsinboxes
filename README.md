@@ -7,7 +7,7 @@
 
 My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with databases and APIs as well. 
 
-I am also learning about **D3.js** and excited to learn **Three.js** and eventually **Python**. While I am a full stack developer, I really love working with UI/UX. As an artist, I find that it satifies both my love for science and math as well as my need to be creative.
+I am also learning **D3.js** and excited to learn **Three.js** and eventually **Python**. While I am a full stack developer, I really love front-end development. As an artist, I find that UI/UX satifies both my love for science and math as well as my need to be creative.
 
 I'm always open to any suggestions or tips from other developers as I continue learning best practices and how to write code that is super clean and responsive. I am looking forward to this journey and ready to take on my first tech job!
 
