@@ -5,7 +5,7 @@
 
 ### A recent graduate from UT's full stack web development course and am currently working hard to build up my portfolio.
 
-My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have some experience with databases and APIs as well. 
+My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with databases and APIs as well. 
 
 I am also learning about **D3.js** and excited to learn **Three.js** and eventually **Python**. While I am a full stack developer, I really love working with UI/UX. As an artist, I find that it satifies both my love for science and math as well as my need to be creative.
 
