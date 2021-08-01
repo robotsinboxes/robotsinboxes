@@ -1,7 +1,7 @@
 ![github-canvas-banner](https://user-images.githubusercontent.com/69644797/126412097-665dcb53-edbe-4444-a9fc-b493771f508b.jpg)
 
 
-## Hi! My name is Lisa Goodell...
+## Hi! My name is Lisa...
 
 ### A recent graduate from UT's full stack web development course and am currently working hard to build up my portfolio.
 
