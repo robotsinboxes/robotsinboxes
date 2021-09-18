@@ -3,7 +3,7 @@
 
 ## Hi! My name is Lisa...
 
-### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio.
+### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio. Currently honing my skills as a software engineer at theCOOP while looking for my first job in tech!
 
 My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with databases and APIs as well. 
 
