@@ -1,4 +1,4 @@
-![github-canvas-banner](https://user-images.githubusercontent.com/69644797/126412097-665dcb53-edbe-4444-a9fc-b493771f508b.jpg)
+![Blue Gold Rustic Artisinal Remote Graduation Banner](https://user-images.githubusercontent.com/69644797/136615642-623f6a6f-64f3-4557-89f5-0aec2f8a7ab9.jpg)
 
 
 ## Hi! My name is Lisa...
