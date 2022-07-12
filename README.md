@@ -3,9 +3,9 @@
 
 ## Hi! My name is Lisa...
 
-### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio. Currently honing my skills as a software engineer at theCOOP while looking for my first job in tech!
+### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio. C
 
-My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with databases and APIs as well. 
+My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with SQL, MongoDB and Rest APIs as well. 
 
 I starting to familiarize myself with Typescript, and look forward to eventually learning **Three.js** and eventually **Python**. While I am a full stack developer, I really love front-end development. As an artist, I find that UI/UX satifies both my love for science and math as well as my need to be creative.
 
