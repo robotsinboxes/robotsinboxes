@@ -3,7 +3,7 @@
 
 ## Hi! My name is Lisa...
 
-### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio. C
+### A recent graduate from UT's full stack web development course and currently working hard to build up my portfolio. 
 
 My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with SQL, MongoDB and Rest APIs as well. 
 
