@@ -7,7 +7,7 @@
 
 My skills include working with **HTML/CSS**, **JavaScript**, **Node.js** and **React**, and I have experience with SQL, MongoDB and Rest APIs as well. 
 
-I starting to familiarize myself with Typescript, and look forward to eventually learning **Three.js** and eventually **Python**. While I am a full stack developer, I really love front-end development. As an artist, I find that UI/UX satifies both my love for science and math as well as my need to be creative.
+I starting to familiarize myself with Typescript, and look forward to eventually learning other technologies, like **Three.js** and **Python**. While I am a full stack developer, I really love front-end development. As an artist, I find that UI/UX satifies both my love for science and math as well as my need to be creative.
 
 I'm always open to any suggestions or tips from other developers as I continue learning best practices and how to write code that is super clean and responsive. I am looking forward to this journey into the ever evolving tech world!
 
